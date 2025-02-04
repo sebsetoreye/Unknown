@@ -1,3 +1,2 @@
-operator
 tkinter
-
+threadding
